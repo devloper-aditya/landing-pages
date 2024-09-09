@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+div h1:first-child{
+    font-size: 100px;
+    color: tomato;
+}
+div h1:nth child{
+    font-size: 200px;
+    columns: red;
+}
+button{
+    background-color: transparent;
+}
